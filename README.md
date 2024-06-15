@@ -1,4 +1,4 @@
-# Usadção da Informática - Landing Page
+# Usadão da Informática - Landing Page
 
 ## Introdução
 
