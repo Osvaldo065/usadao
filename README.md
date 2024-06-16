@@ -52,4 +52,4 @@ A landing page tem como objetivo apresentar a empresa Usadão da Informática, d
 
 3. Abra o arquivo `index.html` em seu navegador de preferência.
    
-**Este Projete esta em Desenvolvimento pode conter Bugs e não estar responsivo**
+**Este Projeto esta em Desenvolvimento pode conter Bugs e não estar responsivo**
